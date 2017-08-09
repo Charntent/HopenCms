@@ -1,0 +1,43 @@
+/* CSS Document */
+
+/*头部*/
+.headernavfixed {
+    height: .9rem;
+}
+.headernav {
+    background-color: #0180CF;
+    height: .9rem;
+    line-height: .9rem;
+    color: #FFFFFF;
+    position: fixed;
+    z-index: 9999;
+    width: 7.5rem;
+}
+.headernav .title {
+    text-align: center;
+    position: relative;
+}
+.headernav .title .return {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: .9rem;
+    height: .9rem;
+    background-image: url(../images/22.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: center;
+    line-height: 100%;
+}
+.headernav .title .rbtn {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: .9rem;
+    height: .9rem;
+    background-image: url(../images/108.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    line-height: 100%;
+}

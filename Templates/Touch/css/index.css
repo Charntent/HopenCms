@@ -1,0 +1,20 @@
+/* CSS Document */
+body{ background:#fff}
+.service{ text-align:center}
+.service p{ font-size:.27857142rem; color:#333}
+.service img{ width:0.85rem; height:0.85rem;}
+.ind_title .title {
+    font-size: 20px;
+    background-image: url(../images/slider/00_03.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+}
+.ind_title {
+    text-align: center;
+}
+.ind_title .etitle {
+    line-height: .56249999rem;
+    font-size: .25714285rem;
+    color: #333;
+}

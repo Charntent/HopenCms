@@ -1,0 +1,559 @@
+@charset "utf-8";
+.content .header p.title {
+	font-family: 'minijianxiyuan464588', "HELVETICANEUELTPRO-THEX", "Arial", "微软雅黑";
+}
+#indexPage #mproject .content .header p.subtitle {
+	color: #848484;
+	width: 700px;
+	margin: 20px auto 0px auto;
+	font-size: 16px;
+	font-family: "minijianxiyuan464588", "HELVETICANEUELTPRO-THEX", "Arial", "微软雅黑";
+}
+::-webkit-scrollbar-track-piece {
+width:8px;
+background-color:#f8f8f8;
+}
+::-webkit-scrollbar {
+width:8px;
+background-color:#2882e8;
+}
+::-webkit-scrollbar-thumb {
+width:8px;
+background-color:#aeaeae;
+}
+::-webkit-scrollbar-thumb:hover {
+width:8px;
+background-color:#2882e8;
+}
+#header .content {
+	padding-left: 40px;
+	padding-right: 80px;
+}
+#header ul#nav {
+	float: right;
+}
+#header {
+	border-bottom: 1px solid transparent;
+	background: transparent;
+}
+#header.mini {
+	background: #fff;
+	box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+.lowB #header {
+	background: #FFF;
+}
+#header ul li.navitem a.active, #header ul li.navitem:hover a {
+	color: #00C0FF;
+}
+#indexPage a.more {
+	color: #00C0FF;
+	border-color: #ececec;
+	font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑";
+}
+#indexPage a.more:hover {
+	color: #fff;
+	border-color: #00C0FF;
+	text-indent: 130px;
+	background: #00C0FF
+}
+#indexPage #mpartner .slider_control a:hover {
+	background-color: #00C0FF
+}
+#contactform p .inputsub {
+	background-color: #00C0FF;
+}
+#contactform .inputtxt.active {
+	border-color: #00C0FF;
+}
+#pages a.active, #pages a:hover {
+	background: #00C0FF;
+}
+#newslist .newstitem:hover {
+	background: #00C0FF
+}
+.bx-wrapper .bx-controls-direction a:hover {
+	background-color: #00C0FF
+}
+.bx-wrapper .bx-pager.bx-default-pager a:focus {
+	border: #00C0FF 1px solid;
+	background-color: #00C0FF;
+}
+#teampost #teamimage img {
+	width: 0px;
+	background: #131418;
+	position: fixed;
+}
+.serviceitem:hover .title {
+	color: #00C0FF;
+}
+#header ul li.navitem a {
+	color: #999;
+}
+#header ul li.navitem ul.subnav li a {
+	padding: 14px 30px;
+	width: 110px;
+	height: 20px;
+	line-height: 20px;
+	background: rgba(255, 255, 255, 1);
+	display: block;
+	font-size: 12px;
+	transition: all 0.2s ease-out 0s;
+	color: #999;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+}
+#header ul li.navitem ul.subnav li a:hover {
+	text-indent: 10px;
+	background: #f4f4f4;
+	color: #6c6c6c;
+}
+#header ul li.navitem ul.subnav {
+	border-top: #00C0FF 3px solid;
+	width: auto;
+	border-radius: 2px;
+}
+#header ul li.navitem ul.subnav li {
+	border-bottom: 1px solid #FFF;
+}
+.bx-wrapper .bx-controls-direction a {
+	background: rgba(0, 0, 0, 0.2);
+}
+#plheader.header p.subtitle {
+	color: #A7A7A7;
+	width: 700px;
+	margin: 30px auto 10px;
+	font-size: 14px;
+	line-height: 24px;
+}
+#indexPage #mproject {
+	background-color: #fff;
+}
+#category a {
+	line-height: 16px;
+	height: 16px;
+	padding: 8px 40px;
+	color: #898989;
+	border: 1px solid #fff;
+	margin-right: 14px;
+	display: inline-block;
+	border-radius: 20px;
+	transition: all 0.3s ease-out 0s;
+}
+#category a.active, #category a:hover {
+	background: #fff;
+	border-color: #DADADA;
+	color: #00C0FF;
+}
+.nobanner #header {
+	background: #fff;
+}
+.postbody a {
+	color: #00C0FF;
+}
+#indexPage .module {
+	background-size: auto;
+}
+#indexPage #mproject .bgmask, #indexPage #mnews .bgmask, #indexPage #mservice .bgmask, #indexPage #mpage .bgmask {
+	background-color: transparent;
+}
+#indexPage #mservice {
+	background-color: #1C1D20;
+	height: 600px;
+}
+#indexPage #mslider ul li p.subtitle {
+	color: #8a8a8c;
+}
+#indexPage #mslider ul li p.title {
+	font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑";
+}
+.content .header {
+	padding-top: 120px;
+}
+#indexPage #mteam .header img {
+	float: left;
+	display: block;
+	margin: 80px 48px 80px 340px;
+	border-radius: 120px;
+	border: 1px solid rgba(255,255,255,0.1);
+	transition: all 0.3s ease-out 0s;
+}
+#indexPage #mteam .header img:hover {
+	border: 1px solid rgba(255,255,255,0.2);
+}
+#indexPage #mteam .header p.title {
+	color: #f6ff00;
+	font-size: 24px;
+	text-align: left;
+	margin: 98px auto auto;
+}
+#indexPage #mteam .header p.subtitle {
+	font-size: 12px;
+	color: #4B4B4B;
+	text-align: left;
+	margin: 0px auto;
+}
+#indexPage #mteam .description {
+	color: #808080;
+	overflow: hidden;
+	text-align: left;
+	line-height: 24px;
+	height: 50px;
+	font-size: 13px;
+	margin: 0px auto;
+	width: 490px;
+}
+#indexPage #mteam {
+	height: 580px;
+	background-color: #19191B;
+}
+#indexPage #mteam .slider_control a i {
+	color: #666;
+}
+#indexPage #mteam .slider_control a:hover i {
+	color: #00C0FF
+}
+#indexPage .module .bgmask {
+	background-color: transparent;
+}
+#newslist .newsinfo .md {
+	color: #00C0FF;
+}
+#indexPage a.more:hover i {
+	text-indent: 18px;
+	color: #fff;
+}
+#contactform p {
+	border-bottom: 1px solid rgba(255,255,255,.2);
+	padding-top: 5px;
+}
+#contactform p .inputtxt {
+	border: medium none;
+	margin-bottom: 5px;
+	background: transparent;
+}
+#contactform p .inputsub {
+	background-color: #00C0FF;
+	margin-top: 10px;
+	padding: 8px 0px;
+}
+#contactinfo p {
+	color: #717171;
+}
+#indexPage #mcontact {
+	height: 680px;
+	background-color: rgb(31, 31, 35);
+}
+#newslist .newsbody .title {
+	height: 30px;
+}
+#newslist .newsbody .description {
+	line-height: 20px;
+	color: #A5A5A5;
+}
+#indexPage #mslider {
+	height: 0
+}
+#indexPage #mslider ul li div {
+}
+#indexPage #mslider ul li p {
+	color: #f6ff00;
+}
+#projectlist, #projectmore {
+	margin: 0px auto;
+}
+#projectlist .projectitem .project_info {
+	background: transparent;
+	height: 0;
+	width: 0;
+	top: 0;
+}
+#projectlist .projectitem a:hover .project_info {
+	background: transparent;
+	height: 0;
+	width: 0;
+	top: 0;
+}
+#projectmore {
+	background: #00c0ff;
+	height: 120px;
+	line-height: 120px;
+	font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑";
+}
+#projectmore:hover {
+	background: #00d8ff;
+	height: 120px;
+	line-height: 120px;
+}
+#indexPage #mproject .content .header p.title {
+	color: #5d5d5d;
+}
+#indexPage #mteam .slider_control {
+	margin-top: 270px;
+}
+#header ul li.navitem {
+	padding: 0px 18px 10px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a {
+	border: 1px solid rgba(255,255,255,0.3);
+}
+#projectlist .projectitem a:hover img {
+	transform: scale(1.08, 1.08);
+	-moz-transform: scale(1.08, 1.08);
+	-webkit-transform: scale(1.08, 1.08);
+	-o-transform: scale(1.08, 1.08);
+}
+.teamitem a {
+	background-color: #131418;
+	border-radius: 180px;
+}
+.npagePage #banner {
+	width: 100%;
+	height: 200px;
+	position: relative;
+}
+.npagePage #banner div {
+	height: 200px;
+}
+#projectlist .projectitem .project_info p.title {
+	margin-top: 0;
+	color: transparent;
+	font-size: 0;
+	transition: all ease-out .3s;
+}
+#projectlist .projectitem a:hover .project_info p.title {
+	margin-top: 0px;
+	color: transparent;
+	font-size: 0
+}
+#projectlist .projectitem .project_info p.subtitle {
+	margin-top: 0;
+	color: transparent;
+	font-size: 0;
+	transition: all 0.3s ease-out 0s;
+}
+#projectlist .projectitem a:hover .project_info p.subtitle {
+	margin-top: 0;
+	color: transparent;
+	font-size: 0;
+}
+#footer p {
+	text-align: center;
+}
+#indexPage #mpartner {
+	background-color: #F8F8F8;
+}
+#teampost #teamimage {
+	width: 0px;
+}
+#teampost #teambody {
+	margin-left: 0px;
+}
+#projectlist .projectitem {
+	width: 32.7%;
+	margin-right: 0.6%;
+	margin-bottom: 0.6%;
+}
+#projectlist .wrapper {
+	margin-left: 0.6%;
+	margin-right: auto;
+}
+#indexPage #mservice .content .header p.title {
+	color: #fff;
+}
+#indexPage #mservice .content .header p.subtitle {
+	color: #484848;
+}
+.serviceitem div p.title {
+	color: #F6FF00;
+}
+.serviceitem div p.description {
+	color: #595959;
+	height: 50px;
+	overflow: hidden;
+	width: 80%;
+	margin-top: 10px;
+	transition: all 0.2s ease-out 0s;
+}
+.serviceitem:hover .title .description {
+	color: #00c0ff;
+}
+.serviceitem:hover .description {
+	color: #9B9B9B;
+}
+.serviceitem {
+	height: 320px;
+	margin-right: 0px;
+	width: 33.33%;
+	margin-top: 20px;
+	transition: all 0.3s ease-out 0s;
+	background-color: #212225;
+}
+.serviceitem:hover {
+	height: 300px;
+	margin-top: 0px;
+	background-color: rgba(22,23,26,.8);
+}
+.serviceitem a {
+	display: block;
+	height: 120px;
+	margin: 10px auto 24px;
+}
+#indexPage #mpage .slider_wrapper li .fimg {
+	height: 500px;
+}
+#footer {
+	background: #17171A;
+}
+.content .header p.subtitle {
+	font-size: 14px;
+	font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑";
+}
+#indexPage #mservice .slider_wrapper {
+	width: 100%;
+	height: 300px;
+}
+#indexPage #mservice .slider_control {
+	width: 0px;
+	height: 180px;
+}
+#indexPage #mservice .slider_wrapper .slider {
+	width: 100%;
+}
+#indexPage #mservice .fw {
+	width: auto;
+}
+#projectinfo .description a {
+	padding: 18px 142px;
+	color: #fff;
+	background: #009CFF;
+	font-size: 14px;
+	transition: all ease .3s;
+}
+#projectinfo .description a:hover {
+	background: #02b2ed
+}
+.module-slider .description {
+	font-size: 16px;
+}
+#indexPage #mnews {
+	background-color: #F0F0F0;
+}
+#projectbody {
+	width: 60%;
+}
+#projectwrap.fw {
+	width: auto;
+}
+#olx_head {
+	background: #00C0FF;
+}
+#online_open {
+	background: #00C0FF;
+}
+#olx_qq li a:hover i {
+	color: #F8F503;
+}
+#projectinfo {
+	width: 340px;
+	float: right;
+	padding: 0px 50px;
+	margin-left: 0px;
+}
+#projectwrap.fw {
+	width: 100%;
+}
+#projectimages li img {
+	display: block;
+	float: none;
+	margin: 0px auto;
+	max-width: 100%;
+}
+#projectbody {
+	max-width: 100%;
+	margin: 0px auto;
+	width: calc(100% - 490px);
+	float: right;
+	padding: 0 50px 0 0;
+}
+#projectimages li img {
+	display: block;
+	float: none;
+	max-width: 100%;
+	margin: 0px auto;
+}
+#projectimages {
+	background: #f5f5f5;
+	padding: 50px;
+}
+#projectwrap.fw {
+	width: 100%;
+	background-color: #F5F5F5;
+	padding: 50px 0;
+}
+#projectimages {
+	background: #FFF none repeat scroll 0% 0%;
+	padding: 40px;
+	box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+#projectinfo {
+	width: 340px;
+	float: right;
+	margin-left: 0px;
+	background-color: #FFF;
+	box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+	padding: 40px;
+}
+#projectbody {
+	max-width: 100%;
+	margin: 0px auto;
+	width: calc(100% - 500px);
+	float: right;
+	padding: 0px 30px 0px 20px;
+}
+.postbody hr {
+	height: 1px;
+	border: none;
+	border-top: 1px dotted rgb(211, 211, 211);
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+#pages_wl{ clear:both; padding:10px 0}
+#pages_wl li.previous a,#pages_wl li.next a {
+    color: #00C0FF;
+    border-color: #ececec;
+    font-family: "HELVETICANEUELTPRO-THEX", "微软雅黑";
+	font-size:12px;
+}
+
+#pages_wl li.previous {
+    border: #dfdfdf 1px solid;
+    background: rgba(255,255,255,.0);
+    min-width: 360px;
+    height: 36px;
+    display: block;
+    margin: 50px auto 80px;
+    line-height: 36px;
+    font-size: 14px;
+    color: #00C0FF;
+    text-indent: 10px;
+    border-radius: 30px;
+    transition: all ease-out .3s;
+	float:left
+}
+#pages_wl li.next {
+    border: #dfdfdf 1px solid;
+    background: rgba(255,255,255,.0);
+    min-width: 360px;
+    height: 36px;
+    display: block;
+    margin: 50px auto 80px;
+    line-height:36px;
+    font-size: 14px;
+    color: #00C0FF;
+    text-indent: 10px;
+    border-radius: 30px;
+    transition: all ease-out .3s;
+	float:right
+}

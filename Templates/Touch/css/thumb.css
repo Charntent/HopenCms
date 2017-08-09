@@ -1,0 +1,79 @@
+/**
+ * 图文展示列表
+ *  Author Hopen
+ *
+ **/
+body{ background-color: #f0f2f5;}
+ul li.jx-juitem {
+    float: left;
+    box-sizing: border-box;
+    width:3.7rem;
+    height: 6.42rem;
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.12);
+    margin-bottom: .1rem;
+    position: relative;
+	line-height:1.5
+}
+
+.jx-juitem:nth-child(even) {
+    margin-left: .1rem;
+}
+
+.jx-juitem .link {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.jx-juitem .main-picwp {
+    position: relative;
+    padding-bottom: 100%;
+}
+.jx-imgwp {
+    overflow: hidden;
+}
+.jx-juitem .main-pic {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+ul.jx-julist .jx-juitem .namewp {
+    height: .72rem;
+}
+
+.jx-juitem .namewp {
+    font-size: .26rem;
+    color: #333;
+    margin-top: .06rem;
+}
+
+.jx-juitem .namewp, .jx-juitem .sale-info, .jx-juitem .tag-price {
+    padding: 0.1rem;
+    display: block;
+}
+.jx-juitem .tag-price {
+    font-size: .24rem;
+    margin-top: .1rem;
+    height: .4rem;
+    color: #ccc;
+}
+.jx-juitem .sale-info {
+    height: .6rem;
+    position: relative;
+}
+.jx-item-blank .price {
+    color: #26A96D;
+}
+
+.jx-juitem .price {
+    color: #E61414;
+    font-size: .24rem;
+    text-align: left;
+}
+.jx-juitem em, .jx-juitem i {
+    font-style: normal;
+}
